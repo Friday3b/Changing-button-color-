@@ -1,0 +1,10 @@
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+T:\Proqramlar\VisualStudio\Taleh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
